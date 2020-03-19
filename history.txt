@@ -1,0 +1,344 @@
+    1  pwd
+    2  ls
+    3  pwd
+    4  mkdir workspace
+    5  cd workspace
+    6  ls
+    7  touch README.md
+    8  cp README.md CHANGELOG.md
+    9  ls
+   10  touch exercise.md
+   11  mv exercise.md /tmp
+   12  pwd
+   13  cd /tmp
+   14  ls
+   15  pwd
+   16  cd workspace
+   17  cd /workspace
+   18  cd /recruit
+   19  pmw
+   20  pwd
+   21  cd /tmp
+   22  pwd
+   23  cd /home/recruit
+   24  pwd
+   25  cd workspace
+   26  pwd
+   27  rm /tmp/exercise.md
+   28  ls
+   29  touch umuzi.md recruits.md cohort.md
+   30  ls
+   31  cat cohort.md umuzi.md recruits.md Roses are red, violets are Blue, MUB was great and so were we.
+   32  cat dw.md if you
+   33  ls
+   34  nano umuzi.
+   35  ls
+   36  cat > umuzi.md
+   37  ls
+   38  cd umuzi.md
+   39  cat > recruits.md
+   40  cat > cohort.md
+   41  cat recruits.md cohort.md umuzi.md
+   42  cat recruits.md cohort.md umuzi.md > summary.md
+   43  summary.md >> 
+   44  cat summary.md >>
+   45  cat >> summary
+   46  locate umuzi.sh
+   47  locate umuzi
+   48  sudo updatedb
+   49  locate umuzi
+   50  locate umuzi > search_result.md
+   51  pwd
+   52  ls
+   53  cd /home
+   54  ls
+   55  cd/documents
+   56  cd documents
+   57  pwd
+   58  cd recruit
+   59  cd Documents
+   60  touch pad.md
+   61  ls
+   62  cd /home/recruit/Desktop
+   63  mkdir work
+   64  ls
+   65  cd /home/recruit/Documents
+   66  cp pad.md pad_copy.md
+   67  mv pad_copy.md /home/recruit/Desktop/work
+   68  ls
+   69  cd /home/recruit/Desktop/work
+   70  ls
+   71  locate updatedb
+   72  cd /home/recruit/Documents
+   73  locate pad_copy.md
+   74  sudo updatedb
+   75  locate pad_copy.md
+   76  cd/home/recruit
+   77  dc/home/recruit/
+   78  cd/home/recruit/
+   79  cd /home/recruit
+   80  find ./recruit -name *pdf
+   81  find ./GFG -name *.pdf
+   82  find ./recruit -name *.pdf
+   83  find . -name "*.pdf"
+   84  sudo updatedb
+   85  find . -name "*.pdf"
+   86  find ./GFG -name *.pdf
+   87  pwd
+   88  cd /home
+   89  find. /GFG -name *.pdf
+   90  find ./GFG -name *.pdf
+   91  cd /recruit
+   92  cd /home/recruit
+   93  find ./GFG -name *.pdf
+   94  find ./recruit -name *.pdf
+   95  find ./home -name *.pdf
+   96  find *.pdf
+   97  find ./home -name '*.pdf'
+   98  find . -name '*.pdf'
+   99  find . -name '*.md'
+  100  git version
+  101  sudo apt install git
+  102  git version
+  103  mkdir Linux_Beginner
+  104  cd Linux_Beginner
+  105  mv /home/recruit/Linux_Tasks /home/recruit/Linux_Beginner_
+  106  ls
+  107  git config --global user.name "Sizwe-BlackStatus"
+  108  git config --global user.email "sizwemasemola1@gmail.com"
+  109  echo "# Linux_Beginner" >> README.md
+  110  git init
+  111  git status 
+  112  git commit -m "uploading Linux Beginner tasks"
+  113  git add .
+  114  git commit -m "Linux Beginner tasks"
+  115  git remote add origin https://github.com/Sizwe-BlackStatus/Linux_Beginner.git
+  116  git push -u origin master
+  117  find . -name "*.pdf"
+  118  find . -name "*.md"
+  119  find . -name "*.pdf" cp /home/recruit/Desktop
+  120  find . -name "*.pdf" cp /documents
+  121  find . -name "*.md" cp ./documents
+  122  find . -name "*.md" cp /home/recruit/documents
+  123  find . -name "*.md" > /home/recruit/documents
+  124  find . -mtime -1 -print
+  125  find . -name "*.pdf" > /documents
+  126  find . -name "*.pdf" > /home/recruit/Documents
+  127  find . -name "*.pdf" > /home/recruit/documents
+  128  find . -name "*.md" > /home/recruit/documents
+  129  find . -name "*.pdf" > /home/recruit/documents
+  130  find . -mtime -1 -print
+  131  nano my_bio.md
+  132  ls
+  133  mv my_bio.md mkdir my_files
+  134  mkdir my_files
+  135  mv my_bio.md /my_files
+  136  /my_files
+  137  cd /my_files
+  138  cd /home/recruit/my_files
+  139  ls
+  140  cd /home/recruit
+  141  mv my_bio.md /home/recruit/my_files
+  142  sudo apt update
+  143  sudo apt upgrade
+  144  sudo apt install tree
+  145  pwd
+  146  cd /Downloads
+  147  cd /home/recruit/Downloads
+  148  sudo dpkg -i code_1.43.1-1584515895_amd64.deb
+  149  cd /home/recruit/
+  150  cd /home/recruit/Downloads
+  151  sudo dpkg -i code_1.43.1-1584515895_amd64.deb
+  152  cd /home/recruit
+  153  nano Task_1
+  154  cat Task_1
+  155  nano Task_1
+  156  cat Task_1.sh
+  157  nano Task_2.sh
+  158  cat Task_2.sh
+  159  nano Task_3.sh
+  160  nano Task_3-3.sh
+  161  cat recruits.md cohort.md umuzi.md > summary
+  162  nano Task_3-5.sh
+  163  nano Task_4.1.sh
+  164  cat Task_4.1
+  165  nano Task_4-1.sh
+  166  nano Task_4-2.sh
+  167  nano Task_5.sh
+  168  nano Task_6-1.sh
+  169  nano Task_6.sh
+  170  nano Task_7.sh
+  171  nano Task_8.sh
+  172  ls
+  173  cd /Linux_Beginner
+  174  cd Linux_Beginner
+  175  git init
+  176  git status
+  177  git add .
+  178  git commit -m "Beginner Linux Challenge"
+  179  git push
+  180  cd home
+  181  dc recruit
+  182  cd recruit
+  183  cd /recruit
+  184  cd /home/recruit
+  185  mkdir git-basic-exercises
+  186  cd git-basics-exercises
+  187  cd /git-basics-exercises
+  188  cd /git-basic-exercises
+  189  cd git-basic-exercises
+  190  ls
+  191  ls -a
+  192  git inti
+  193  git init
+  194  ls -a
+  195  git status
+  196  touch README.md
+  197  ls -a
+  198  git status
+  199  git log
+  200  git add README.MD
+  201  git add .
+  202  git status
+  203  git commit -m "initial commit"
+  204  git log
+  205  nano README.md
+  206  cat README.md
+  207  git stats
+  208  git status
+  209  git commit -m "initial commit"
+  210  git add .
+  211  git status
+  212  git commit -m "initial commit"
+  213  nano README.md
+  214  cat README.md
+  215  git status
+  216  git add . 
+  217  git status
+  218  git commit -m "second commit"
+  219  nano README.md
+  220  git status
+  221  git add .
+  222  git status
+  223  git commit -m "Third commit"
+  224  git log
+  225  git checkout commit c39473232cf1cf9e5a027fe2e663cf4ebd4defd6
+  226  cat README.md
+  227  git checkout master
+  228  cat README.md
+  229  git branch
+  230  git checkout 0fac3f998574f788cc7897dd29094816b2b06f3e
+  231  git checkout -b <milkshake-flavours>
+  232  git checkout -b <new-milkshake-flavours>
+  233  git branch <milkshake-flavours>
+  234  git branch milkshake-flavours
+  235  git branch
+  236  git checkout -b master
+  237  git checkout -b milkshake-flavours
+  238  git checkout milkshake-flavours
+  239  git branch
+  240  git log
+  241  git branch master
+  242  git checkout master
+  243  git log
+  244  nano milkshakes.md
+  245  git status
+  246  git commit -m "added initial flavours"
+  247  git add .
+  248  git status
+  249  git log
+  250  git commit -m "added initial flavours"
+  251  git log
+  252  git checkout master
+  253  git branch master
+  254  git branch history
+  255  git log
+  256  history > history.txt
+  257  git commit -m "initial commit"
+  258  git add .
+  259  git commit -m "initial commit"
+  260  git log
+  261  git checkout milkshake-flavours
+  262  git log 
+  263  nano README.md
+  264  cat README.md
+  265  nano README.md
+  266  git status
+  267  git add .
+  268  git commit -m "initial commit"
+  269  cat README.md
+  270  nano README.md
+  271  git add.
+  272  git add .
+  273  git commit -m "random readme changes"
+  274  git checkout history
+  275  git branch history
+  276  cat README.md
+  277  rm README.md echo "booya" > README.md
+  278  rm README.md
+  279  echo "booya" > README.md
+  280  git add .
+  281  git commit -m "rewrote readme"
+  282  git checkout master
+  283  git log
+  284  git checkout master
+  285  ls
+  286  git log
+  287  git checkout milkshake-flavours
+  288  ls
+  289  git log
+  290  git checkout history
+  291  ls
+  292  git log
+  293  rmdir git-basic-exercises
+  294  cd git-basic-exercises
+  295  rm README.md
+  296  rm milkshakes.md
+  297  cd /home/recruit
+  298  rmdir git-basic-exercises
+  299  mkdir git-basic-exercises
+  300  cd git-basic-exercises
+  301  ls -a
+  302  git init
+  303  ls -a
+  304  git status
+  305  touch README.md
+  306  ls -a
+  307  git status
+  308  git log
+  309  git add .
+  310  git status
+  311  git commit -m "initial commit"
+  312  git log
+  313  nano README.md 
+  314  cat README.md
+  315  git status
+  316  git add .
+  317  git commit -m "second commit"
+  318  git status
+  319  git commit -m "second commit"
+  320  git log
+  321  nano README.md
+  322  git add .
+  323  git commit -m "second commit"
+  324  nano README.md
+  325  git add .
+  326  git commit -m "third commit"
+  327  git log
+  328  git checkout 4dc404e36e8ba0518b512014b130b4d144e761ed
+  329  cat README.md
+  330  git checkout master
+  331  cat README.md
+  332  git branch
+  333  git branch milkshake-flavours
+  334  git branch
+  335  git checkout milkshake-flavours 
+  336  nano milkshakes.md
+  337  git status
+  338  git add .
+  339  git commit -m "added initial flavours"
+  340  git log
+  341  git checkout master
+  342  git branch history
+  343  git log
+  344  history > history.txt
